@@ -2,7 +2,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00c7ff&height=300&section=header&text=Welcome&desc=SoYeon's%20github&descAlign=70&descAlignY=53&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=40)
 
-####  :wave: Welcome my github profile !
+####  :wave: Welcome my github profile !<br>
+<a href="mailto:elliekim9881@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=elliekim9881@gmail.com"/></a>
 
   
  <br/>
