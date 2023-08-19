@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Rect&color=CCE6FF&height=150&section=header&text=Welcome&desc=SoYeon's%20github&descAlign=70&descAlignY=80&fontColor=7a868c&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=2fd4e4&height=150&section=header&text=Welcome&desc=SoYeon's%20github&descAlign=70&descAlignY=80&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 ####  :wave: Welcome my github profile !
 
